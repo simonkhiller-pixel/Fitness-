@@ -33,7 +33,7 @@
   <div class="payment-info">
     <h3>Payment Instructions:</h3>
     <p><strong>M-Pesa Paybill:</strong> 123456 (Account: Simon Wambua)</p>
-    <p>After payment, confirm via WhatsApp at <strong>+254706XXXXXX</strong></p>
+    <p>After payment, confirm via WhatsApp at <strong>+254706512762</strong></p>
   </div>
 </section>
 
